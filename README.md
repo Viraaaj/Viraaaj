@@ -17,19 +17,19 @@
 
 
 <a href="https://github.com/Viraaaj">
-  <img align="left" alt="Viraj Nimbalkar's Github" width="16px" src="github.jpg" />
+  <img align="left" alt="Viraj Nimbalkar's Github" width="16px" src="assests/github.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/viraj-nimbalkar/">
-  <img align="left" alt="Viraj Nimbalkar's Linkdein" width="16px" src="linkedin.jpg" />
+  <img align="left" alt="Viraj Nimbalkar's Linkdein" width="16px" src="assests/linkedin.jpg" />
 </a>
 <a href="https://www.instagram.com/viraaaaaj.1299/?igshid=dccx1iixu7w9">
-  <img align="left" alt="Viraj Nimbalkar's Instagram" width="16px" src="instagram.png" />
+  <img align="left" alt="Viraj Nimbalkar's Instagram" width="16px" src="assests/instagram.png" />
 </a>
 <a href="https://www.facebook.com/vvn.viraj1299">
-  <img align="left" alt="Viraj Nimbalkar's Facebook" width="16px" src="facebook.jpg" />
+  <img align="left" alt="Viraj Nimbalkar's Facebook" width="16px" src="assests/facebook.jpg" />
 </a>
 <a href="https://twitter.com/Viraaaaaj1299">
-  <img align="left" alt="Viraj Nimbalkar's Twitter" width="16px" src="twitter.jpg" />
+  <img align="left" alt="Viraj Nimbalkar's Twitter" width="16px" src="assests/twitter.jpg" />
 </a>
 
 <br/>
