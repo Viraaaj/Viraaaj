@@ -1,4 +1,15 @@
-### Hi there, I'm [Viraj Nimbalkar!](https://virajnimbalkar.netlify.app/) 👋
+### Hi there, I'm [Viraj Nimbalkar!](https://virajnimbalkar.netlify.app/) <img src="assets/Developer.gif" width="30px">
+
+<p>
+  <em>
+    I am a 4th Year undergraduate from <a href="https://www.mituniversity.edu.in/"> <b>MIT ADT University</b>, Pune</a>.  
+    A budding <b>Software Developer</b> and a <b>Cyber Security Enthusiast,</b>&nbsp;  who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> and 
+    <b>excel.</b> <img src="assets/Rocket.gif" width="20px">
+  </em>  
+</p>
+
 <!-- <a href="https://twitter.com/Viraaaaaj1299">
   <img align="left" alt="Viraj Nimbalkar's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
