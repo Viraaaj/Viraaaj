@@ -6,7 +6,7 @@
     A budding <b>Software Developer</b> and a <b>Cyber Security Enthusiast,</b>&nbsp;  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> and 
-    <b>excel.</b> <img src="assests/Rocket.gif" width="20px">
+    <b>excel.</b> <img src="assests/Rocket.gif" width="16px">
   </em>  
 </p>
 
