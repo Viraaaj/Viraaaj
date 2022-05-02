@@ -2,10 +2,12 @@
 
 <p>
   <em>
-    I am a 4th Year undergraduate from <a href="https://www.mituniversity.edu.in/"> <b>MIT ADT University</b>, Pune</a>.  
-    A budding <b>Software Developer</b> and a <b>Cyber Security Enthusiast,</b>&nbsp;  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself! <img src="assests/Rocket.gif" width="16px">
+    I am a Frontend Developer with 2+ years of experience in web and mobile development. Currently building amazing products <a href="https://www.mckinleyrice.com/" target="_blank" >@McKinley Rice.</a> <img src="assests/Rocket.gif" width="16px">
   </em>  
+</p>
+
+<p>
+“A user interface is like a joke. If you have to explain it, it’s not that good.”
 </p>
 
 <!-- <a href="https://twitter.com/Viraaaaaj1299">
@@ -23,7 +25,6 @@
 <a href="https://www.facebook.com/vvn.viraj1299">
   <img align="left" alt="Viraj Nimbalkar's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a> -->
-
 
 <a href="https://github.com/Viraaaj">
   <img align="left" alt="Viraj Nimbalkar's Github" width="30px" target="_blank" src="assests/github.jpg" />
@@ -57,6 +58,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraaaj&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 <br/>
-
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Viraaaj)](https://github.com/Viraaaj)
