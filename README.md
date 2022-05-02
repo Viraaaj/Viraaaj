@@ -1,12 +1,10 @@
 ### Hi there, I'm [Viraj Nimbalkar!](https://virajnimbalkar.netlify.app/) <img src="assests/Developer.gif" width="30px">
 
 <p>
-  <em>
     I am a Frontend Developer with 2+ years of experience in web and mobile development. Currently building amazing products <a href="https://www.mckinleyrice.com/" target="_blank" >@McKinley Rice.</a> <img src="assests/Rocket.gif" width="16px">
-  </em>  
 </p>
 
-<p>
+<p style="font-weight: bold" >
 “A user interface is like a joke. If you have to explain it, it’s not that good.”
 </p>
 
