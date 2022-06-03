@@ -1,7 +1,7 @@
-### Hi there, I'm [Viraj Nimbalkar!](https://virajnimbalkar.netlify.app/) <img src="assests/Developer.gif" width="30px">
+### Hi there, I'm [Viraj Nimbalkar!](https://virajnimbalkar.netlify.app/) <img src="assests/Developer.gif" width="30px" height="40px">
 
 <p>
-    I am a Frontend Developer with 2+ years of experience in web and mobile development. Currently building amazing products <a href="https://www.mckinleyrice.com/" target="_blank" >@McKinley Rice.</a> <img src="assests/Rocket.gif" width="16px">
+    I am a Frontend Developer with 2+ years of experience in web and mobile development. Currently building amazing products <a href="https://www.mckinleyrice.com/" target="_blank" >@McKinley Rice.</a> <img src="assests/Rocket.gif" width="16px" height="26px">
 </p>
 
 <p style="font-weight: bold" >
